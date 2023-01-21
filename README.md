@@ -1,2 +1,2 @@
 # 1st-Project
-This is just a test
+This an Appie application
