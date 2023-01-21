@@ -17,8 +17,6 @@ colors:
 #32C36A
 #0E1133
 #FF3E66
-#2EACFC
-#33C755
 
 */
 
@@ -119,7 +117,7 @@ strong {
 /*--- Hero Section ---*/
 
 .hero-section {
-  background-color: #eef1f6;
+  background-color: #fff;
 }
 .hero {
   display: grid;
