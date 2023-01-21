@@ -129,7 +129,7 @@ strong {
   grid-template-columns: 1fr 1.1fr;
 }
 .hero-text-box {
-  padding: 0 32rem 0 80rem;
+  padding: 32rem 32rem 32rem 80rem;
   align-self: center;
 }
 .heading-primary {
