@@ -15,7 +15,6 @@ colors:
 #3BB094
 #FE466D
 #32C36A
-#0E1133
 #FF3E66
 
 */
@@ -44,10 +43,10 @@ strong {
   font-weight: 900;
 }
 
-/*--- Header Section ---*/
+/*-- Header Section --*/
 
 .header {
-  background-color: #eef1f6;
+  background-color: #eef1f7;
   padding: 32rem 64rem 32rem;
   height: 96rem;
   display: flex;
@@ -114,10 +113,10 @@ strong {
   font-size: 24rem;
 }
 
-/*--- Hero Section ---*/
+/*-- Hero Section --*/
 
 .hero-section {
-  background-color: #eef1f6;
+  background-color: #eef1f7;
 }
 .hero {
   display: grid;
