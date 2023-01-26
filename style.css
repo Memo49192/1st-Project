@@ -34,7 +34,7 @@ html {
   overflow-x: hidden;
 }
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #333;
   line-height: 1;
   font-weight: 400;
@@ -118,7 +118,7 @@ strong {
 .mobile-nav-icon {
   font-size: 36rem;
 }
-.mobile-nav-icon[name="close-outline"] {
+.mobile-nav-icon[name='close-outline'] {
   display: none;
 }
 .sticky .header {
@@ -181,13 +181,13 @@ strong {
   font-size: 20rem;
   position: absolute;
 }
-.form-icon[name="mail-outline"] {
+.form-icon[name='mail-outline'] {
   color: #999;
   left: 5%;
   top: 50%;
   transform: translateY(-50%);
 }
-.form-icon[name="arrow-forward-outline"] {
+.form-icon[name='arrow-forward-outline'] {
   color: rgb(252, 61, 61);
   right: 25%;
   top: 50%;
@@ -800,7 +800,7 @@ strong {
   box-shadow: 0 24rem 48rem rgba(0, 0, 0, 0.08);
 }
 .card-most-popular::before {
-  content: "Most Popular";
+  content: 'Most Popular';
   position: absolute;
   right: -10%;
   top: 5%;
@@ -1039,7 +1039,7 @@ strong {
   font-size: 22rem;
   color: #5084f9;
 }
-.address-icon[name="location-outline"] {
+.address-icon[name='location-outline'] {
   font-size: 32rem;
 }
 .col-link.address:link,
@@ -1113,7 +1113,7 @@ strong {
   transition: all 0.3s;
 }
 .up-button:hover {
-  background-color: #dba6b4;
+  background-color: #ff3e66;
 }
 .up-button-icon {
   font-size: 20rem;
@@ -1166,10 +1166,10 @@ strong {
     visibility: visible;
     transform: translateX(0);
   }
-  .nav-open .mobile-nav-icon[name="close-outline"] {
+  .nav-open .mobile-nav-icon[name='close-outline'] {
     display: block;
   }
-  .nav-open .mobile-nav-icon[name="menu-outline"] {
+  .nav-open .mobile-nav-icon[name='menu-outline'] {
     display: none;
   }
   .header {
@@ -1195,7 +1195,7 @@ strong {
   .hero-form input {
     width: 95%;
   }
-  .form-icon[name="arrow-forward-outline"] {
+  .form-icon[name='arrow-forward-outline'] {
     right: 10%;
   }
   .hero-img {
