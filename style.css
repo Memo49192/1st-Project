@@ -26,7 +26,7 @@ colors:
 }
 *:focus {
   outline: none;
-  outline: 2px solid #a7a9ac;
+  box-shadow: 0 0 0 2px #a7a9ac;
 }
 html {
   font-size: 6.25%;
