@@ -517,8 +517,8 @@ strong {
   top: 50%;
   transform: translate(-50%, -50%);
   border-radius: 50%;
-  border: 1.5px solid transparent;
-  border-bottom: 1.5px solid #fff;
+  border: 1px solid transparent;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.9);
 }
 .play-btn {
   display: flex;
@@ -528,18 +528,18 @@ strong {
   border-radius: 50%;
   border: none;
   margin: 1px;
-  border: 1.5px solid #fff;
-  border-bottom: 1.5px solid transparent;
+  border: 2px solid rgba(255, 255, 255, 0.9);
+  border-bottom: 1px solid transparent;
 }
 
 .play-icon {
   background-color: #fff;
   color: #ff3e66;
   cursor: pointer;
-  padding: 28rem;
+  padding: 32rem;
   border-radius: 50%;
-  width: 24rem;
-  height: 24rem;
+  width: 28rem;
+  height: 28rem;
   margin: 2px;
 }
 .slide-img {
